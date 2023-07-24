@@ -8,7 +8,8 @@
 
 <div>
   <a href="https://github.com/enzo-rafael-souza">    
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enzo-rafael-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzo-rafael-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-rafael-souza&layout=compact&langs_count=99&theme=tokyonight"/>
   <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
