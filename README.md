@@ -1,7 +1,7 @@
 ![bann](https://user-images.githubusercontent.com/113648168/194182028-b7b98874-0953-4af6-ac73-c88cd777eebe.png)
 ##
 
- I'm Enzo, student of Systems Analysis and Development. Passionate about technology. Motivated by the strength of wanting to learn and evolve more and more. I am a travel lover, I love to know a little about each place and its culture. I'm looking for opportunities where I can contribute with everything I learn. And last not least, I'm a coffee addict. 
+ I'm Enzo, I have a degree in Systems Analysis and Development. Passionate about technology. Motivated by the strength of wanting to learn and evolve more and more. I am a travel lover, I love to know a little about each place and its culture. I'm looking for opportunities where I can contribute with everything I learn. And last not least, I'm a coffee addict. 
 </div>
 
 ##
